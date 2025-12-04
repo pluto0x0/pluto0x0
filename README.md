@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pluto0x0)](https://github.com/anuraghazra/github-readme-stats) -->
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pluto0x0&theme=algolia)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pluto0x0&theme=algolia)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pluto0x0&theme=algolia)
+<p align="left">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pluto0x0&theme=algolia" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pluto0x0&theme=algolia" />
+</p>
